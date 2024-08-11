@@ -206,6 +206,8 @@ The following are server implementations that reimplement Discord's client-serve
 | :---: | :---: | :---: | :---: |
 | [Reflectcord](https://github.com/V3L0C1T13S/reflectcord) | Reimplementation of Discord API Server on top of Revolt.chat, intended for self hosting | [![JavaScript][JavaScript-Badge]][JavaScript-Url] [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
 | [Spacebar Chat](https://spacebar.chat/) | Almost fully featured re-implementation of Discord API Server, intended for self hosting | [![TypeScript][TypeScript-Badge]][TypeScript-Url] | 🟢 Active |
+| [Oldcord](https://oldcordapp.com/) | 2015-2016 Discord server reimplementation, can be used for self hosting | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
+| [Hummus](https://hummus.sys42.net/) | 2017 Discord server reimplementation | [Closed source] | 🟢 Active |
 | [Litecord](https://gitlab.com/litecord/litecord) | Partial reimplementation of Discord API Server, not intended for self hosting | [![Python][Python-Badge]][Python-Url] | 🟠 On hiatus, since May 2023 |
 
 [^1]: Discord brought a breaking change for the mod in question.
